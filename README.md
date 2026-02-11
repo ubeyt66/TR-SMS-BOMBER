@@ -1,18 +1,22 @@
 # Repoyu al
+```bash
 git clone https://github.com/kullaniciadin/sms-bomber.git
+```
 
 # Klasöre gir
+```bash
 cd TR-SMS-BOMBER
+```
 
 # Paketleri kur
+```bash
 pip install -r requirements.txt
+```
 
 # Başlat
-python U.py
-
-
-
 ```bash
+python U.py
+```
 
-Buraya yazdığın her şey kopyalanabilir bir kutu içinde görünür kk
-git clone https://github.com/kullaniciadin/sms-bomber.git pip install -r requirements.txt python U.py ```
+
+
